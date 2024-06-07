@@ -1,16 +1,14 @@
-## Hi there 👋
+Boas vindas ao meu perfil! 📘
 
-<!--
-**CPURAM001/CPURAM001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando na Alura;
+Estou me desenvolvendo na linguagem JavaScript;
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
-Here are some ideas to get you started:
+Você pode entrar em contato comigo! 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Davidmarquesdesouza09004@gmail.com
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.com%2Fgif%2F3d-movie-how-a-car-engine-works-YE74j9&psig=AOvVaw3LdilJI8k_CfEehvp2HwAu&ust=1717889840060000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLCo87_UyoYDFQAAAAAdAAAAABAY)
+
+
+
